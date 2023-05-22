@@ -1,3 +1,6 @@
+- name: terraform-fmt
+  uses: dflook/terraform-fmt@v1.29.1
+
 - name: Setup TFLint
   uses: terraform-linters/setup-tflint@v3.0.0
 
